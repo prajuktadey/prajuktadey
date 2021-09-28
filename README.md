@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @prajuktadey
+- 👋 Hi, I’m Prajukta Dey.
 - 👀 I’m interested in competitive programming, web development, artificial intelligence and machine learning.
 - 🌱 I’m currently learning various programming languages and databases.
 - 📫 How to reach me: theprajuktadey@gmail.com
