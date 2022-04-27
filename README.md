@@ -1,7 +1,10 @@
 # 💫About Me :
 I'm a passionate developer currently in my freshman year at Kalinga Institute of Industrial Technology.
+
 I am currently learning Cloud Computing.
+
 I am interested in Artificial Intelligence, Machine Learning and Big Data.
+
 I am also learning different programming languages.
 
 "Do not learn how to code, learn to build cool stuff." 
