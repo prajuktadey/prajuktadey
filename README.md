@@ -1,4 +1,4 @@
-# 💫About Me :
+# 💫About Me:
 I'm a passionate developer currently in my freshman year at Kalinga Institute of Industrial Technology.
 
 I am currently learning Cloud Computing.
