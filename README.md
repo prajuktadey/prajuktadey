@@ -8,9 +8,9 @@
 
 
 ## About Me :
-- Sophomore at KIIT, India.
+- Second year student at KIIT, India.
 - ML and AI enthusiast.
-- Done with the basics of Data Analysis and Cloud Computing.
+- Learnt the basics of Data Analysis and Cloud Computing.
 - At the moment, learning different programming languages and DBMS.
 
 ## Socials : 
