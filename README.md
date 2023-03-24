@@ -10,8 +10,8 @@
 ## About Me :
 - Second year student at KIIT, India.
 - ML and AI enthusiast.
-- Learnt the basics of Data Analysis and Cloud Computing.
-- At the moment, learning different programming languages and DBMS.
+- Learnt the basics of Cloud Computing, Data Analytics and Machine Learning.
+- At the moment, learning about ANN, RNN, CNN and NLP.
 
 ## Socials : 
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@theprajuktadey) 
