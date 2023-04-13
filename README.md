@@ -14,9 +14,20 @@
 - At the moment, learning about ANN, RNN, CNN and NLP.
 
 ## Socials : 
-[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@theprajuktadey) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-12100E?logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/prajukta-dey-a24252239/) 
-
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/5eLDrEaRGHegx2FeF2/giphy.gif" width="250" height="250"/>
+</div>
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/pajuktadey/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://www.instagram.com/prajzisclueless/">
+    <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram Badge"/>
+  </a>
+  <a href="https://www.kaggle.com/prajuktadey">
+    <img src="https://img.shields.io/badge/Kaggle-blue?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle Badge"/>
+  </a>
+</div>
 
 ## Languages and Tools :
 <div>
