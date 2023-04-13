@@ -24,6 +24,9 @@
   <a href="https://www.kaggle.com/prajuktadey">
     <img src="https://img.shields.io/badge/Kaggle-blue?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle Badge"/>
   </a>
+  <a href="https://medium.com/@theprajuktadey">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"/>
+  </a>
 </div>
 
 ## Languages and Tools :
