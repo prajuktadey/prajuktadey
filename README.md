@@ -14,9 +14,6 @@
 - At the moment, learning about ANN, RNN, CNN and NLP.
 
 ## Socials : 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/5eLDrEaRGHegx2FeF2/giphy.gif" width="250" height="250"/>
-</div>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/pajuktadey/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
