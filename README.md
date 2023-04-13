@@ -58,7 +58,7 @@
   <a href="https://www.credly.com/users/prajukta-dey/badges">
     <img src="https://img.shields.io/badge/Credly-red?style=for-the-badge&logo=credly&logoColor=white" alt="Credly Badges"/>
   </a>
-  <a href="https://www.holopin.io/@prajuktadey">
+  <a href="https://www.holopin.io/@prajuktadey#badges">
     <img src="https://img.shields.io/badge/Holopin-green?style=for-the-badge" alt="Holopin Badges"/>
   </a>
   <a href="https://learn.microsoft.com/en-us/users/prajuktadey-6746/achievements">
