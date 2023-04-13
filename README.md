@@ -52,6 +52,17 @@
 
 
 
+## Badges :
 
----
-[![](https://visitcount.itsvg.in/api?id=prajuktadey&icon=0&color=0)](https://visitcount.itsvg.in)
+<div id="badges2" align="left">
+  <a href="https://www.credly.com/users/prajukta-dey/badges">
+    <img src="https://img.shields.io/badge/Credly-red?style=for-the-badge&logo=credly&logoColor=white" alt="Credly Badges"/>
+  </a>
+  <a href="https://www.holopin.io/@prajuktadey">
+    <img src="https://img.shields.io/badge/Holopin-green?style=for-the-badge" alt="Holopin Badges"/>
+  </a>
+  <a href="https://learn.microsoft.com/en-us/users/prajuktadey-6746/achievements">
+    <img src="https://img.shields.io/badge/Learn-blue?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft Badges"/>
+  </a>
+</div>
+
