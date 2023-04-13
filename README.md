@@ -69,3 +69,7 @@
   </a>
 </div>
 
+<!-- Contribution Snake -->
+
+![snake gif](https://github.com/prajuktadey/prajuktadey/blob/output/github-contribution-grid-snake.svg)
+
