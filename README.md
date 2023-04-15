@@ -67,8 +67,9 @@
   <a href="https://learn.microsoft.com/en-us/users/prajuktadey-6746/achievements">
     <img src="https://img.shields.io/badge/Learn-blue?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft Badges"/>
   </a>
-  <a href=="https://www.cloudskillsboost.google/public_profiles/91741050-10b5-4708-8655-30db9bd17d5b">
-    <img src= "https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" alt ="Google Cloud Skill Boost Badges/>
+  <a href="https://www.cloudskillsboost.google/public_profiles/91741050-10b5-4708-8655-30db9bd17d5b">
+    <img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" alt ="Google Cloud Skill Boost Badges"/>
   </a>
+                                                                                                                                   
 </div>
 
