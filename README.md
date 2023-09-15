@@ -50,11 +50,11 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" title="Windows" alt="Windows" width="40" height="40"/>&nbsp;
 </div>
 
-## GitHub Stats :
-  ![](https://github-readme-stats.vercel.app/api?username=prajuktadey&theme=gotham&hide_border=false&include_all_commits=true&count_private=false)
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=prajuktadey&theme=gotham&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-  ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prajuktadey&theme=gotham&hide_border=false)
-  ![](https://github-readme-streak-stats.herokuapp.com/?user=prajuktadey&theme=gotham&hide_border=false)
+## Github Stats:
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=prajuktadey&theme=gotham&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-streak-stats.herokuapp.com/?user=prajuktadey&theme=gotham&hide_border=false)
+![](https://github-readme-stats.vercel.app/api?username=prajuktadey&theme=gotham&hide_border=false&include_all_commits=true&count_private=false)
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prajuktadey&theme=gotham&hide_border=false&include_all_commits=true&count_private=false)
 
 ## Badges :
 
