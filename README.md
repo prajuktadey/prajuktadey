@@ -26,6 +26,9 @@
   <a href="https://medium.com/@theprajuktadey">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"/>
   </a>
+  <a href="https://leetcode.com/theprajuktadey/">
+    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/>
+  </a>
 </div>
 
 ## Languages and Tools :
