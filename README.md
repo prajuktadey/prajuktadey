@@ -10,6 +10,7 @@
 ## About Me :
 - Junior year student at KIIT, India.
 - ML and AI enthusiast.
+- Currently focused on Competitive Coding.
   
 ## Socials : 
 <div id="badges" align="center">
