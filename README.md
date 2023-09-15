@@ -54,7 +54,7 @@
   ![](https://github-readme-stats.vercel.app/api?username=prajuktadey&theme=gotham&hide_border=false&include_all_commits=true&count_private=false)
   ![](https://github-readme-streak-stats.herokuapp.com/?user=prajuktadey&theme=gotham&hide_border=false)
   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=prajuktadey&theme=gotham&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-  ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prajuktadey&theme=gotham&hide_border=true)
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prajuktadey&theme=gotham&hide_border=false)
 
 ## Badges :
 
