@@ -8,7 +8,7 @@
 
 
 ## About Me :
-- Junior year student at KIIT, India.
+- Final year student at KIIT, India.
 - ML and AI enthusiast.
 - Currently focused on Competitive Coding.
   
